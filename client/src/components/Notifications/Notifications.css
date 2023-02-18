@@ -1,0 +1,19 @@
+
+
+
+.Notifications {
+    background-color: white;
+    /* width: 63%; */
+    height: 500px;
+    overflow-x: scroll;
+    padding: 15px;
+    box-shadow: 1px 3px 7px 1px rgb(128,128,128,0.3);
+}
+
+.notif-time {
+    background-color: darkorange;
+    color: white;
+    padding: 3px 6px;
+    width: fit-content;
+    margin-bottom: 10px;
+}
